@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dinislamvaliev001
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning in courses of yandex
-- 💞️ I’m looking to collaborate on data scientist
-- 📫 How to reach me t.me/dinislamvaliev001
+- Hi, I’m @dinislamvaliev001
+- I’m interested in data science
+- I’m currently learning in courses of yandex
+- I’m looking to collaborate on data scientist
+- How to reach me t.me/dinislamvaliev001
