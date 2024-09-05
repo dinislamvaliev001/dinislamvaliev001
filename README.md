@@ -1,6 +1,6 @@
 - Hi, I’m @dinislamvaliev001
 - I’m interested in data science
-- I completed yandex courses
-- I work as a DS currently
+- I’m completed Yandex courses
+- I’m work as a DS currently
 - I’m looking to collaborate on data scientist
 - How to reach me t.me/dinislamvaliev001
